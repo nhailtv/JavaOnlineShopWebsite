@@ -1,0 +1,25 @@
+
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.input-group {
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	width: 50%;
+	margin: 0 auto;
+}
+
+/* Make the image fully responsive */
+.carousel-inner img {
+	width: 70%;
+	height: 500px;
+	object-fit: contain;
+	margin: auto;
+	display: block;
+}
+
