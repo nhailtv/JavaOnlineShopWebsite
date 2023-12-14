@@ -37,7 +37,7 @@ if (cart_list != null) {
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container">
 			<a class="navbar-brand" href="Index.jsp"> <img src="img/Logo.png"
-				alt="GoodGear Logo" class="nav-logo"> <span class="brand-text">GoodGear</span>
+				alt="GoodGear Logo" class="nav-logo"> <span class="brand-text">GoodBook</span>
 			</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"

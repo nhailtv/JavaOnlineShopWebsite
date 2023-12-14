@@ -125,22 +125,6 @@ if (cart_list != null) {
 
 	<h2 style="text-align: center">Our Team</h2>
 	<div class="row justify-content-center">
-		<div class="column">
-			<div class="card">
-				<img src="img/em_Beo.jpg" alt="Beo">
-				<div class="container">
-					<h2>Tran Quoc Bao</h2>
-					<p class="title">Web Desinger</p>
-					<p>We could do everything!</p>
-					<p>baotq.22it@vku.udn.com</p>
-					<p>
-						<a class="button"
-							href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZfRmjxCmqcNQqsWJmbqBksWkVLQLhDnFHsDftGFPSbDJNSzNDcWmbFZCFXwtqhbrTptWL"
-							target="_blank">Contact</a>
-					</p>
-				</div>
-			</div>
-		</div>
 
 		<div class="column">
 			<div class="card">

@@ -64,6 +64,7 @@ if (cart_list != null) {
 
 	<!--Pos getting begin-->
 	<input type="hidden" id="scrollPosInput" name="scrollPos" />
+		
 	<script>
 		// Get the current scroll position
 		var scrollPos = window.pageYOffset
@@ -118,14 +119,14 @@ if (cart_list != null) {
 
 
 
-	<input type="hidden" id="scrollPosInput" name="scrollPos" />
+
 
 
 	<!-- NavBar -->
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container">
 			<a class="navbar-brand" href="Index.jsp"> <img src="img/Logo.png"
-				alt="GoodGear Logo" class="nav-logo"> <span class="brand-text">GoodGear</span>
+				alt="GoodGear Logo" class="nav-logo"> <span class="brand-text">GoodBook</span>
 			</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -226,7 +227,7 @@ if (cart_list != null) {
 	</div>
 
 
-
+	
 
 
 
@@ -363,7 +364,6 @@ if (cart_list != null) {
 				<div class="col">
 					<h5>WEB-Maker:</h5>
 					<ul class="list-unstyled">
-						<li>Tran Quoc Bao</li>
 						<li>Nguyen Hong Nguyen Hai</li>
 					</ul>
 				</div>
